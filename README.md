@@ -1,4 +1,4 @@
-# c-program-30-days-challenge
+#c-program-30-days-challenge
 statement-to practice variable data type input/output statements, arithmetic operators and basic expression evaluation in C
 algorithm
 start
